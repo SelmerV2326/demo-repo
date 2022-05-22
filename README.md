@@ -1,5 +1,5 @@
 # Demo
-function bitcoinMinig(input){
+#function bitcoinMinig(input){
    let buffer = 0;
    let len = input.length;
    let day = 0; 
